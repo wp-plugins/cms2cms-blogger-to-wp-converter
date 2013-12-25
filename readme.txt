@@ -1,15 +1,16 @@
-﻿=== CMS2CMS Blogger to WP Converter  ===
+﻿=== CMS2CMS Blogger to WordPress Converter  ===
 Contributors: cms2cms
 Tags: Blogger to wordpress, Blogger to wordpress mirgation, convert Blogger to wordpress, migrate Blogger to wordpress
 Requires at least: 3.0.0
 Tested up to: 3.8
-Stable tag: 3.0.3
+Stable tag: 3.1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 In case you need to convert your site from Blogger to WordPress, this plugin will assist to move your content automatically.
 
 == Description ==
+
 In case you need to convert your site from Blogger to WordPress, this plugin will assist to move your content automatically. You\'ll quickly set up the migration even without any programming background. The transfer normally requires from several minutes to a couple hrs  - everything depends on the size of your website.
 
 = The next content can be moved from Blogger to WordPress site: =
@@ -31,6 +32,7 @@ More info: http://www.cms2cms.com/supported-cms/blogger-com-to-wordpress-migrati
 **Website design (styles, themes) isn’t migrated.**
 
 == Installation ==
+
 1. Download the plugin zip file
 1. Extract plugin zip file to your PC
 1. Upload extracted file to wp-content/plugin directory
@@ -38,6 +40,7 @@ More info: http://www.cms2cms.com/supported-cms/blogger-com-to-wordpress-migrati
 1. You’ll be redirected to CMS2CMS website in order to complete your migration
 
 == Frequently Asked Questions ==
+
 = Your website is unreachable =
 If your website cannot be reached, pay attention to the following points:
 1. Make sure your site is available online at the moment.
@@ -92,6 +95,7 @@ To fix it, you should either download the bridge again under the account you are
 Сontact us at support@cms2cms.com.
 
 == Screenshots ==
+
 1. /assets/screenshot-1.png
 2. /assets/screenshot-2.png
 3. /assets/screenshot-3.png
@@ -99,6 +103,7 @@ To fix it, you should either download the bridge again under the account you are
 5. /assets/screenshot-5.png
 
 == Changelog ==
+
 = 2.0.2 =
 * Bug fixes
 
