@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS Blogger to WordPress Converter  ===
 Contributors: cms2cms
-Tags: Blogger to wordpress, Blogger to wordpress mirgation, convert Blogger to wordpress, migrate Blogger to wordpress
+Tags: Blogger to wordpress, Blogger to wordpress migration, convert Blogger to wordpress, migrate Blogger to wordpress, comments, posts, images, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
