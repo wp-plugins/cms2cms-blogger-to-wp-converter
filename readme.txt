@@ -13,6 +13,9 @@ In case you need to convert your site from Blogger to WordPress, this plugin wil
 
 In case you need to convert your site from Blogger to WordPress, this plugin will assist to move your content automatically. You\'ll quickly set up the migration even without any programming background. The transfer normally requires from several minutes to a couple hrs  - everything depends on the size of your website.
 
+* *There is Free Demo available (migration of limited number of threads, users, posts).*
+* *Full Migration starts from $39.*
+
 = The next content can be moved from Blogger to WordPress site: =
 * posts
 * pages
