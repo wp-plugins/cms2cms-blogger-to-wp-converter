@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: Blogger to wordpress, Blogger to wordpress migration, convert Blogger to wordpress, migrate Blogger to wordpress, comments, posts, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -23,7 +23,7 @@ In case you need to convert your site from Blogger to WordPress, this plugin wil
 * tags
 * comments
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 Blogger to WordPress Converter installs the connection bridge on your WordPress web site, necessary for data transfer between Blogger and WordPress databases. Following the activation, you’ll be redirected to CMS2CMS website to complete the conversion.
 
@@ -32,8 +32,7 @@ Notice. Website layout (styles, themes) isn’t migrated, but after migration yo
 = Video =
 [youtube https://www.youtube.com/watch?v=c9CyA1DEEHA]
 
-More info: http://www.cms2cms.com/supported-cms/blogger-com-to-wordpress-migration
-
+More info: http://www.cms2cms.com/supported-cms/blogger-com-to-wordpress-migration?utm_source=Blogger&utm_medium=Link&utm_campaign=WordPress_plugins
 
 **Website design (styles, themes) isn’t migrated.**
 
