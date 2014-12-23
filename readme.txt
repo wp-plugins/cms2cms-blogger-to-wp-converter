@@ -34,6 +34,11 @@ Notice. Website layout (styles, themes) isn’t migrated, but after migration yo
 
 More info: http://www.cms2cms.com/supported-cms/blogger-com-to-wordpress-migration?utm_source=Blogger&utm_medium=Link&utm_campaign=WordPress_plugins
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
 **Website design (styles, themes) isn’t migrated.**
 
 == Installation ==
